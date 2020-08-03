@@ -1,0 +1,8 @@
+Keys,Values
+organization_index,monroe_group
+embedding_type,use-lite
+filename_path,/Users/vchordia/logs_test/sanity_check/monroe_group.csv
+hits@5,3
+hits@3,24
+hits@1,238
+Total_Queries,265
