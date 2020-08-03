@@ -9,7 +9,7 @@ the following arguments:
 
 5. Output file - Location of the output file as a full path
 
-You will need to additionally install the sentence_transformers package as:
+You will need to use the same environment as for rfp-knowledge but will need to additionally install the sentence_transformers package as:
 
 pip install sentence_transformers
 
